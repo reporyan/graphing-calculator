@@ -1,6 +1,7 @@
 # Graphing Calculator
 C# Graphing Calculator for the OOP unit custom project.<br>
 An extensive design overview can be found under the documentation folder.<br>
+
 <img width="1592" height="1256" alt="image" src="https://github.com/user-attachments/assets/741064e5-8e16-42b7-b82b-d61dae278d87" />
 
 ### Instalation
