@@ -8,7 +8,7 @@ Student ID: 105914892
 Summary of Program
 
 Overall Summary
-<img width="940" height="317" alt="image" src="https://github.com/user-attachments/assets/161a704b-77c6-4d94-8a4a-81e02d6526e9" />
+
 
 
 The program I have developed is a mathematical graphing calculator. Users can input graphs or coordinates in a window, and view them displayed on a cartesian plane. Users can pan and zoom around the plane to view the graphs.
@@ -462,19 +462,10 @@ BACKGROUND_COLOUR	Color	Bg colour
 Main()	Public, static, void, method, in _args : string[]	Does setup and loop. Everything comes from this
 
 Class Diagram
-
-
- 
- 
- 
- 
-
-
-
-
-
-
+<img width="940" height="317" alt="image" src="https://github.com/user-attachments/assets/161a704b-77c6-4d94-8a4a-81e02d6526e9" />
+<img width="940" height="173" alt="image" src="https://github.com/user-attachments/assets/dbfde76e-6322-4db9-8637-a0784c360205" />
+<img width="940" height="316" alt="image" src="https://github.com/user-attachments/assets/55dce761-5a8e-4caf-8c08-24e2ea048834" />
+<img width="938" height="177" alt="image" src="https://github.com/user-attachments/assets/7429c95a-d8a0-4d9d-b8aa-3e9c865e9f5d" />
 
 Sequence Diagram
-
- 
+<img width="940" height="516" alt="image" src="https://github.com/user-attachments/assets/05b12ad3-0c19-47e2-aa53-7cb879ac74b7" />
