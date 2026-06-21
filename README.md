@@ -8,6 +8,8 @@ Student ID: 105914892
 Summary of Program
 
 Overall Summary
+<img width="940" height="317" alt="image" src="https://github.com/user-attachments/assets/161a704b-77c6-4d94-8a4a-81e02d6526e9" />
+
 
 The program I have developed is a mathematical graphing calculator. Users can input graphs or coordinates in a window, and view them displayed on a cartesian plane. Users can pan and zoom around the plane to view the graphs.
 
