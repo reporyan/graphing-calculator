@@ -4,7 +4,7 @@ An extensive design overview can be found under the documentation folder.<br>
 
 <img width="1592" height="1256" alt="image" src="https://github.com/user-attachments/assets/741064e5-8e16-42b7-b82b-d61dae278d87" />
 
-### Instalation
+### Installation
 Using SplashKit library V1.3.0 https://splashkit.io/<br>
 Using dotnet V10.0.201<br>
 
